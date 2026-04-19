@@ -1,8 +1,15 @@
-🔹 EX01 — Par ou Ímpar
+💻 Module 01 — EX00
+📌 Nome:
 
-Crie um programa que:
+👉 Entrada e decisão básica
 
-recebe um número
-diz se é par ou ímpar
+📝 Enunciado
 
-📌 Sem usar nada avançado
+Crie um programa em Java que:
+
+Receba um número inteiro do usuário
+Verifique se o número é:
+positivo
+negativo
+ou zero
+Exiba o resultado no console
