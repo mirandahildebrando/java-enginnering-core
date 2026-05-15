@@ -42,6 +42,7 @@ System.out.flush();
 
         System.out.println("Números em ordem crescente : " + num1 + " " + num2 + " " + num3);
 
+        scanner.close();
     }
-
+    
 }

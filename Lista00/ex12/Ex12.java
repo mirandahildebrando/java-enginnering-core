@@ -43,7 +43,7 @@ public class Ex12 {
             System.out.println("Número máximo de tentativas atingido. Acesso bloqueado.");
         }
     }
-
+    scanner.close();
     }
 
 }

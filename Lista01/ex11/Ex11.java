@@ -17,6 +17,7 @@ System.out.flush();
             int resultado = numero * i;
             System.out.println(numero + " x " + i + " = " + resultado);
         }
+        scanner.close();
         
     }
 

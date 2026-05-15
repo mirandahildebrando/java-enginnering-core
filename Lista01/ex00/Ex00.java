@@ -21,6 +21,7 @@ public class Ex00 {
         } else {
             System.out.println("O número é zero.");
         }
-  
+  scanner.close();
     }
+    
 }

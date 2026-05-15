@@ -34,7 +34,8 @@ System.out.flush();
                 menor = array[i];
             }
         }
-
+        scanner.close();
+        
         System.out.println("O maior elemento é: " + maior);
         System.out.println("O menor elemento é: " + menor);
         System.out.println("A média dos elementos é: " + (double) soma / n);
